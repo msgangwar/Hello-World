@@ -1,3 +1,3 @@
 # Hello-World
 hello github
-//welcome to github
+welcome to github
